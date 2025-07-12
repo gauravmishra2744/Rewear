@@ -176,9 +176,7 @@ We welcome contributions from the community! Please read our [Contributing Guide
 4. Add tests if applicable
 5. Submit a pull request
 
-## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
@@ -188,10 +186,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-- **Email**: team@rewear.community
-- **Website**: https://rewear.community
-- **Twitter**: @RewearCommunity
-- **LinkedIn**: ReWear Community Platform
+created by team Cybernetic Alchemists 
+Team Leader:- Gaurav Mishra 
+gmail:- gauravmishra2744@gmail.com
+team member :- Akanksha Tyagi 
+               Anmol 
+               Katherin Pandey 
 
 ---
 
