@@ -187,8 +187,8 @@ We welcome contributions from the community! Please read our [Contributing Guide
 ## 📞 Contact
 
 created by team Cybernetic Alchemists 
-Team Leader:- Khushi Tiwary 
-gmail:- , khushitiwary31202@gmail.com gauravmishra2744@gmail.com
+Team Leader:- Gaurav Mishra 
+gmail:- gauravmishra2744@gmail.com
 team member :- Gaurav Mishra       Akanksha Tyagi 
                Katherin Pandey 
 
